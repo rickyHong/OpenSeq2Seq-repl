@@ -7,7 +7,7 @@ mpi4py
 librosa
 python_speech_features
 matplotlib
-joblib==0.11
+joblib==1.2.0
 sentencepiece
 sacrebleu
 h5py
